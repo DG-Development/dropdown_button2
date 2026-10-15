@@ -11,6 +11,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  material_ui: any
   meta: ^1.9.1
 
 dev_dependencies:
